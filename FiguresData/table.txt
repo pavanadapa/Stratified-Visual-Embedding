@@ -1,0 +1,7 @@
+\begin{tabular}{lrrrrrrrrrrrrrrr}
+ & \multicolumn{3}{r}{mean} & \multicolumn{3}{r}{total} & \multicolumn{3}{r}{standard_deviation} & \multicolumn{3}{r}{min} & \multicolumn{3}{r}{max} \\
+ & mean & max & min & mean & max & min & mean & max & min & mean & max & min & mean & max & min \\
+Model &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  \\
+Stratified & 0.580000 & 0.580000 & 0.580000 & 57.970000 & 57.970000 & 57.970000 & 0.090000 & 0.090000 & 0.090000 & 0.510000 & 0.510000 & 0.510000 & 1.110000 & 1.110000 & 1.110000 \\
+Total & 0.830000 & 0.830000 & 0.830000 & 82.690000 & 82.690000 & 82.690000 & 0.040000 & 0.040000 & 0.040000 & 0.810000 & 0.810000 & 0.810000 & 1.150000 & 1.150000 & 1.150000 \\
+\end{tabular}
